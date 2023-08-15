@@ -1,0 +1,6 @@
+env
+__pycache__
+depth.txt
+info.txt
+ticker.txt
+trades.txt
